@@ -21,8 +21,9 @@ Project Highlights
    * Suggest potential changes or improvements for Walmart to leverage the analysis results.
 
 Repository Contents
-Data Exploration and Analysis: Jupyter notebook detailing steps taken to handle null values, detect outliers, and explore customer spending patterns. Statistical Analysis: Notebook showcasing average spending analysis, confidence interval computation, and segment-wise comparisons.
-Recommendations and Action Items: Summarized report with actionable insights for Walmart's consideration in pdf format
+1. Data Exploration and Analysis: Jupyter notebook detailing steps taken to handle null values, detect outliers, and explore customer spending patterns. Statistical Analysis: Notebook showcasing average spending analysis, confidence interval computation, and segment-wise comparisons.
+2. Recommendations and Action Items: Summarized report with actionable insights for Walmart's consideration in pdf format
+3. Data-set in csv format
 
 Feel free to explore the repository contents to understand the steps taken in analyzing Walmart's customer purchase data and the resulting insights. 
 Your feedback and contributions are highly welcomed.
